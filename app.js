@@ -1,5 +1,5 @@
 const API_KEY = "49b530dd0d9541e78744";
-const URL = `http://openapi.foodsafetykorea.go.kr/api/${API_KEY}/COOKRCP01/json/1/100`;
+const URL = `https://openapi.foodsafetykorea.go.kr/api/${API_KEY}/COOKRCP01/json/1/100`;
 
 const result = document.getElementById("result");
 
